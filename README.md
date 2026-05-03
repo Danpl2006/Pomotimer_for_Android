@@ -5,7 +5,7 @@
 ## Скриншоты
 | Таймер | Задачи | Настройки |
 |--------|--------|------------|
-| <img width="250" src="https://github.com/user-attachments/assets/684aeb78-fa27-4199-8fbc-627f817bf43f" /> | <img width="250" src="https://github.com/user-attachments/assets/f694e8f5-32f0-4f3d-8aa0-f3d545e08353" /> | <img width="250" src="https://github.com/user-attachments/assets/01ba86f8-2161-451e-8ecb-695af9e37e58" /> |
+| <img width="250" src="https://github.com/user-attachments/assets/684aeb78-fa27-4199-8fbc-627f817bf43f" /> | <img width="250" src="https://github.com/user-attachments/assets/f694e8f5-32f0-4f3d-8aa0-f3d545e08353" /> |<img width="250" src="https://github.com/user-attachments/assets/035f4e7a-88d7-47bf-afd3-a6047a03cd72" />|
 
 ## Функционал
 
