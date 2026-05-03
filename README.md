@@ -3,11 +3,9 @@
 Приложение-таймер, реализующее метод Pomodoro для управления временем. Позволяет чередовать интервалы работы и отдыха, вести список задач и настраивать параметры таймера.
 
 ## Скриншоты
-
 | Таймер | Задачи | Настройки |
 |--------|--------|------------|
-| <img width="200" src="https://github.com/user-attachments/assets/4c4556ea-3db6-48fa-9a41-d8a1ea359cb9" /> | <img width="200" src="https://github.com/user-attachments/assets/f7748ff5-a65f-4e52-92d1-576250763873" /> |
- | <img width="200" src="https://github.com/user-attachments/assets/36f1c2ea-af9d-4ef2-879e-0afbc815299a" /> |
+| <img width="250" src="https://github.com/user-attachments/assets/684aeb78-fa27-4199-8fbc-627f817bf43f" /> | <img width="250" src="https://github.com/user-attachments/assets/f694e8f5-32f0-4f3d-8aa0-f3d545e08353" /> | <img width="250" src="https://github.com/user-attachments/assets/01ba86f8-2161-451e-8ecb-695af9e37e58" /> |
 
 ## Функционал
 
