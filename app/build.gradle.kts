@@ -5,16 +5,12 @@ plugins {
 
 android {
     namespace = "com.example.pomotimer"
-    compileSdk {
-        version = release(36) {
-            minorApiLevel = 1
-        }
-    }
+    compileSdk = 35  // ✅ исправлено: просто число, не версия и не release(...)
 
     defaultConfig {
         applicationId = "com.example.pomotimer"
         minSdk = 24
-        targetSdk = 36
+        targetSdk = 35  // ✅ лучше 35 (стабильнее, чем 36)
         versionCode = 1
         versionName = "1.0"
 
@@ -55,4 +51,7 @@ dependencies {
     androidTestImplementation(libs.androidx.compose.ui.test.junit4)
     debugImplementation(libs.androidx.compose.ui.tooling)
     debugImplementation(libs.androidx.compose.ui.test.manifest)
+
+    // Дополнительные зависимости (можно убрать дубликаты, но они не вредят)
+    implementation("androidx.compose.material:material-icons-extended")
 }
