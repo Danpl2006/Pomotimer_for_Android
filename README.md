@@ -6,7 +6,8 @@
 
 | Таймер | Задачи | Настройки |
 |--------|--------|------------|
-| <img width="200" src="https://github.com/user-attachments/assets/4c4556ea-3db6-48fa-9a41-d8a1ea359cb9" /> | <img width="200" src="https://github.com/user-attachments/assets/e5abf066-ee90-4cf0-be8c-5b77c4338eeb" /> | <img width="200" src="https://github.com/user-attachments/assets/36f1c2ea-af9d-4ef2-879e-0afbc815299a" /> |
+| <img width="200" src="https://github.com/user-attachments/assets/4c4556ea-3db6-48fa-9a41-d8a1ea359cb9" /> | <img width="386" height="815" alt="{BE757C9F-242E-4C1C-BC0E-44BF160CEE5A}" src="https://github.com/user-attachments/assets/f7748ff5-a65f-4e52-92d1-576250763873" />
+ | <img width="200" src="https://github.com/user-attachments/assets/36f1c2ea-af9d-4ef2-879e-0afbc815299a" /> |
 
 ## Функционал
 
