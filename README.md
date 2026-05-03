@@ -4,7 +4,7 @@
 
 ## Скриншоты
 
-| Таймер (1) | Задачи (2) | Настройки (3) |
+| Таймер (1) | Настройки (2) | Задачи (3) |
 |------------|------------|----------------|
 | <img width="250" src="https://github.com/user-attachments/assets/b605cd24-c1c5-4642-9d5e-a64c42463c35" /> | <img width="250" src="https://github.com/user-attachments/assets/d81766b5-4ba9-4370-bab5-87198866d1ad" /> | <img width="250" src="https://github.com/user-attachments/assets/3563961f-7d48-4144-b05f-3daeb8e56842" /> |
 
